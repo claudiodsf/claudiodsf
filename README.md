@@ -6,6 +6,12 @@ Here you can find several software packages that I developed, mainly for seismol
 
 If you want to find out more, please check [my webpage](https://www.ipgp.fr/~satriano).
 
+## Seismological software
+
+Check the pinned packages below 👇
+
+I also maintain a curated list of freely available [earthquake seismology software](https://github.com/claudiodsf/earthquake_seismology_software).
+
 <!--
 **claudiodsf/claudiodsf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
