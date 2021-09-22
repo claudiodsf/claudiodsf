@@ -29,6 +29,16 @@ I also maintain a curated list of freely available [earthquake seismology softwa
 | [pyskel](https://github.com/claudiodsf/pyskel) | An empty Python installable project to bootstrap new code development |
 | [jacgol](https://github.com/claudiodsf/jacgol) | Just Another Conway's Game Of Life |
 
+## Projects
+
+I participate to several open source projects:
+
+| Name | Description |
+| ---- | ----------- |
+| [ObsPy](https://obspy.org) | A Python framework for Seismology |
+| [PyGMT](https://www.pygmt.org) | A Python interface for the Generic Mapping Tools |
+| [PhaseWorm](https://github.com/jmsaurel/phaseworm) | A Python wrapper of PhaseNet for use with EarthWorm |
+
 <!--
 **claudiodsf/claudiodsf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
