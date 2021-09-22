@@ -1,4 +1,10 @@
-### Hi there 👋
+# Hi there 👋
+
+My name is Claudio Satriano, I'm a [seismologist](https://en.wikipedia.org/wiki/Seismology) at the [Institut de physique du globe de Paris](https://www.ipgp.fr).
+
+Here you can find several software packages that I developed, mainly for seismology.
+
+If you want to find out more, please check [my webpage](https://www.ipgp.fr/~satriano).
 
 <!--
 **claudiodsf/claudiodsf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
