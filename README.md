@@ -8,9 +8,26 @@ If you want to find out more, please check [my webpage](https://www.ipgp.fr/~sat
 
 ## Seismological software
 
-Check the pinned packages below 👇
+| Name | Description |
+| ---- | ----------- |
+| [SourceSpec](https://github.com/SeismicSource/sourcespec)  | Earthquake source parameters from S-wave displacement spectra |
+| [Requake](https://github.com/SeismicSource/requake) | Repeating earthquakes search and analysis |
+| [BackTrackBB](https://github.com/BackTrackBB/backtrackbb) | Multi-band array detection and location of seismic sources |
+| [axirunner](https://github.com/claudiodsf/axirunner) | Make synthetic seismograms using Axitra. The easy way™ |
+| [nllgrid](https://github.com/claudiodsf/nllgrid) | Python class for reading and writing NLLoc grid files |
+| [RTLoc](https://github.com/claudiodsf/rtloc) | Real Time Location for earthquake early warning |
+| [instaMT](https://github.com/claudiodsf/instaMT) | A Jupyter notebook to play with seismic moment tensor orientation and proportion of DC, CLVD and ISO |
+| [read_segd](https://github.com/claudiodsf/read_segd) | SEG D bindings to ObsPy |
 
 I also maintain a curated list of freely available [earthquake seismology software](https://github.com/claudiodsf/earthquake_seismology_software).
+
+## Other software
+
+| Name | Description |
+| ---- | ----------- |
+| [stockwell](https://github.com/claudiodsf/stockwell) | Stockwell transform for Python |
+| [pyskel](https://github.com/claudiodsf/pyskel) | An empty Python installable project to bootstrap new code development |
+| [jacgol](https://github.com/claudiodsf/jacgol) | Just Another Conway's Game Of Life |
 
 <!--
 **claudiodsf/claudiodsf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
