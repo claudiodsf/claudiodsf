@@ -26,6 +26,7 @@ I also maintain a curated list of freely available [earthquake seismology softwa
 | Name | Description |
 | ---- | ----------- |
 | [stockwell](https://github.com/claudiodsf/stockwell) | Stockwell transform for Python |
+| [rhos](https://github.com/claudiodsf/rhos) | Recursive high-order statistics for Python |
 | [pyskel](https://github.com/claudiodsf/pyskel) | An empty Python installable project to bootstrap new code development |
 | [jacgol](https://github.com/claudiodsf/jacgol) | Just Another Conway's Game Of Life |
 
