@@ -10,7 +10,7 @@ If you want to find out more, please check [my webpage](https://www.ipgp.fr/~sat
 
 | Name | Description |
 | ---- | ----------- |
-| [SourceSpec](https://github.com/SeismicSource/sourcespec)  | Earthquake source parameters from S-wave displacement spectra |
+| [SourceSpec](https://github.com/SeismicSource/sourcespec)  | Earthquake source parameters from P- and S-wave displacement spectra |
 | [Requake](https://github.com/SeismicSource/requake) | Repeating earthquakes search and analysis |
 | [BackTrackBB](https://github.com/BackTrackBB/backtrackbb) | Multi-band array detection and location of seismic sources |
 | [axirunner](https://github.com/claudiodsf/axirunner) | Make synthetic seismograms using Axitra. The easy way™ |
