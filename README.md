@@ -6,6 +6,8 @@ Here you can find several software packages that I developed, mainly for seismol
 
 If you want to find out more, please check [my webpage](https://www.ipgp.fr/~satriano).
 
+Find me on Mastodon: <a rel="me" href="https://mas.to/@claudiodsf">@claudiodsf</a>
+
 ## Seismological software
 
 | Name | Description |
