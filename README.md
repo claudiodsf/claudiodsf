@@ -14,6 +14,7 @@ Find me on Mastodon: <a rel="me" href="https://mas.to/@claudiodsf">@claudiodsf</
 | ---- | ----------- |
 | [SourceSpec](https://github.com/SeismicSource/sourcespec)  | Earthquake source parameters from P- and S-wave displacement spectra |
 | [Requake](https://github.com/SeismicSource/requake) | Repeating earthquakes search and analysis |
+| [SeisCat](https://github.com/SeismicSource/seiscat) | Keep a local seismic catalog |
 | [BackTrackBB](https://github.com/BackTrackBB/backtrackbb) | Multi-band array detection and location of seismic sources |
 | [axirunner](https://github.com/claudiodsf/axirunner) | Make synthetic seismograms using Axitra. The easy way™ |
 | [nllgrid](https://github.com/claudiodsf/nllgrid) | Python class for reading and writing NLLoc grid files |
