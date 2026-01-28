@@ -4,9 +4,9 @@ My name is Claudio Satriano, I'm a [seismologist](https://en.wikipedia.org/wiki/
 
 Here you can find several software packages that I developed, mainly for seismology.
 
-If you want to find out more, please check [my webpage](https://www.ipgp.fr/~satriano).
+If you want to find out more, please check [my webpage 🌍](https://www.ipgp.fr/~satriano).
 
-Find me on Mastodon: <a rel="me" href="https://mas.to/@claudiodsf">@claudiodsf</a>
+Or, find me on Bluesky 🦋: [claudio.seismicsource.org](https://bsky.app/profile/claudio.seismicsource.org)
 
 ## Seismological software
 
