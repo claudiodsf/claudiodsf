@@ -6,7 +6,7 @@ Here you can find several software packages that I developed, mainly for seismol
 
 If you want to find out more, please check [my webpage 🌍](https://www.ipgp.fr/~satriano).
 
-Or, find me on Bluesky 🦋: [claudio.seismicsource.org](https://bsky.app/profile/claudio.seismicsource.org)
+Or, find me on Bluesky 🦋: [@claudio.seismicsource.org](https://bsky.app/profile/claudio.seismicsource.org)
 
 ## Seismological software
 
